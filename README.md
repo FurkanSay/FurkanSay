@@ -72,37 +72,6 @@ Now building **AI-augmented backends** — RAG pipelines, agent loops & tool cal
 
 ---
 
-### Featured Projects
-
-#### [enterprise-ai-assistant](https://github.com/FurkanSay/enterprise-ai-assistant) · Multi-Tenant RAG Platform
-
-Polyglot microservices showcase: **5 languages, 6 services**, gRPC-typed contracts in a single monorepo.
-
-| Service | Stack | Role |
-|---|---|---|
-| Gateway · Identity | C# .NET 10 | Reverse proxy (YARP) · Auth · Tenant isolation |
-| Documents | Java · Spring Boot 3 | Transactional file ops · Metadata |
-| Processing | Rust · Axum | CPU-bound chunking · BM25 (tantivy) |
-| AI Engine | Python · FastAPI | Embeddings · agent loop · tool registry · RAG |
-| Realtime | TypeScript · NestJS | WebSocket fan-out |
-| Frontend | Next.js | Chat UI · RAG citations · streaming |
-
-> Multi-tenant SaaS · custom **agent loop + tool registry** (function calling, **no LangChain**) · Qdrant + BM25 **hybrid retrieval** with RRF & cross-encoder reranking · **RAGAS** evaluation · **OpenTelemetry + Jaeger** first-class · grounded RAG with citations.
-
----
-
-#### [voice-notes-tr-ai](https://github.com/FurkanSay/voice-notes-tr-ai) · Offline Turkish Meeting Assistant
-
-Solves the post-meeting "what did we decide, who does what" loss — **fully offline & GDPR/KVKK-compliant**, no data leaves the machine. Tauri v2 (**Rust** + TS) · Vite/React · faster-whisper (Whisper large-v3-turbo) transcription · Ollama / Gemma 3 for decision & action extraction · real-time capture with cpal + VAD.
-
----
-
-#### [odoo-meet-assistant-rag-ai](https://github.com/FurkanSay/odoo-meet-assistant-rag-ai) · ERP-Integrated Meeting Assistant
-
-Turns scattered meeting notes into tracked tasks **inside the ERP** and makes past meetings queryable in natural language. **4 custom Odoo 17 Python modules** · PostgreSQL + pgvector · Ollama (bge-m3, Gemma 3) RAG embedded into ERP workflows.
-
----
-
 ### Production Highlights
 
 - 🏗️ Shipped **8 enterprise products from scratch** at ON Yazılım (Technopark) across healthcare, agritech & logistics — incl. on-device AI: trained a queen-bee detection model and deployed an **ONNX** model into tablet ground-control software.
