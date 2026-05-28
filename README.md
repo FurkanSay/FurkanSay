@@ -2,9 +2,9 @@
 
 # Furkan Say
 
-### AI Engineer · Backend Engineer · C# / .NET / Python / Rust / Java
+### AI/ML Engineer · Backend Engineer · C# / .NET / Python / Rust / Java
 
-[![Location](https://img.shields.io/badge/Adana-T%C3%BCrkiye%20·%20open%20to%20relocation%20%2F%20remote-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Istanbul-Ankara-T%C3%BCrkiye%20·%20open%20to%20relocation%20%2F%20remote-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkansay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkansay)
 [![Email](https://img.shields.io/badge/Email-info@furkansay.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@furkansay.com)
 [![Website](https://img.shields.io/badge/Web-furkansay.com-1F4E79?style=flat-square&logo=googlechrome&logoColor=white)](https://furkansay.com)
@@ -69,16 +69,6 @@ Now building **AI-augmented backends** — RAG pipelines, agent loops & tool cal
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Testcontainers](https://img.shields.io/badge/-Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-### Production Highlights
-
-- 🏗️ Shipped **8 enterprise products from scratch** at ON Yazılım (Technopark) across healthcare, agritech & logistics — incl. on-device AI: trained a queen-bee detection model and deployed an **ONNX** model into tablet ground-control software.
-- ⚡ **API p95 latency: 850 ms → 120 ms (−85%)** — profiling + async refactor.
-- 🗄️ **Hot SQL queries: −60% runtime** — stored-procedure refactor + index tuning.
-- 🔄 **Outbox Pattern + RabbitMQ** event-driven pipeline for cross-service eventual consistency.
-- 🚢 Shipped **GoEksper SaaS** end-to-end as sole engineer (backend + UI, production).
 
 ---
 
