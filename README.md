@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer · Backend Engineer · C# / .NET / Python / Rust / Java
 
-[![Location](https://img.shields.io/badge/Istanbul-Ankara-T%C3%BCrkiye%20·%20open%20to%20relocation%20%2F%20remote-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/%C4%B0stanbul%20%2F%20Ankara-T%C3%BCrkiye%20·%20open%20to%20relocation%20%2F%20remote-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkansay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkansay)
 [![Email](https://img.shields.io/badge/Email-info@furkansay.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@furkansay.com)
 [![Website](https://img.shields.io/badge/Web-furkansay.com-1F4E79?style=flat-square&logo=googlechrome&logoColor=white)](https://furkansay.com)
